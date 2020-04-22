@@ -1,0 +1,713 @@
+.wid {
+  width: 110%;
+
+}
+
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+
+  height: 100%; 
+  }
+
+
+.up_c,.up_l,.up_r {
+  height: 18px;
+font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+letter-spacing: 2px;
+
+color: #000000;
+}
+
+
+.up_c {
+  padding: 153px 27px 65px 27px;
+}
+
+.up_l {
+  padding: 153px 27px 65px 77px;
+}
+
+.up_r {
+  padding: 153px 77px 65px 27px;
+}
+
+
+/* Новости культуры */
+
+.zagol-1 {
+/* Новости культуры */
+
+position: absolute;
+width: 347px;
+height: 47px;
+left: 547px;
+top: 30px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: 900;
+font-size: 35px;
+line-height: 47px;
+/* identical to box height */
+letter-spacing: 1px;
+
+/* черный */
+color: #000000;
+
+}
+
+.el_or {
+  /* Ellipse 2 */
+
+position: absolute;
+width: 55px;
+height: 55px;
+left: 693px;
+top: 264px;
+-moz-border-radius: 27px;
+-webkit-border-radius: 27px;
+border-radius: 27px;
+z-index: 1;
+background: #FF7931;
+}
+
+.gory {
+  /* gallery_ico 1 */
+
+position: absolute;
+width: 27px;
+height: 14.17px;
+left: 706px;
+top: 282px;
+z-index: 5;
+
+}
+
+.krug {
+  /* Vector */
+
+  position: absolute;
+  width: 7.53px;
+  height: 7.44px;
+  left: 722px;
+  top: 278px;
+  z-index: 5;
+}
+
+.hotel {
+  /* Rectangle 11 */
+
+position: absolute;
+width: 1440px;
+height: 464px;
+left: 0px;
+top: 218px;
+
+background: #C4C4C4;
+
+}
+
+.monparnas_p {
+  /* Rectangle 7 */
+
+position: absolute;
+width: 370px;
+height: 203px;
+left: 137px;
+top: 766px;
+
+background: #C4C4C4;
+
+}
+
+.monparnas {
+/* «Шальные годы» Монпарнаса */
+
+position: absolute;
+width: 368px;
+height: 31px;
+left: 137px;
+top: 969px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: 900;
+font-size: 23px;
+line-height: 31px;
+/* identical to box height */
+
+/* черный */
+color: #000000;
+
+
+}
+
+.monparnas_ {
+/* В Музее изобразительных искусств имени Пушкина с 29 сентября по 29 ноября проходит выставка «Шальные годы Монпарнаса» */
+
+position: absolute;
+width: 370px;
+height: 63px;
+left: 136px;
+top: 1011px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+
+color: #000000;
+
+
+}
+
+.anatom_p {
+  /* Screenshot_1 1 */
+
+position: absolute;
+width: 370px;
+height: 203px;
+left: 536px;
+top: 766px;
+
+background: url(Screenshot_1.jpg);
+
+}
+
+.anatom {
+  /* Анатомия за 30 секунд */
+
+position: absolute;
+width: 367px;
+height: 31px;
+left: 535px;
+top: 969px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: 900;
+font-size: 23px;
+line-height: 31px;
+/* identical to box height */
+
+color: #FF7931;
+
+
+}
+
+.anatom_ {
+  /* Сейчас, когда мир открыт нараспашку для человека и его познавательных изысканий, интерес к научно‑популярной литературе заметно вырос */
+
+position: absolute;
+width: 370px;
+height: 64px;
+left: 535px;
+top: 1010px;
+z-index: 10;
+
+
+}
+
+.chud_p {
+  /* 208d7a1afa07a8352942b8f211e29b23 */
+
+position: absolute;
+width: 370px;
+height: 203px;
+left: 935px;
+top: 766px;
+
+background: url(208d7a1afa07a8352942b8f211e29b23.jpg);
+
+}
+
+.chud {
+  /* Сферические чудаки */
+
+position: absolute;
+width: 367px;
+height: 31px;
+left: 935px;
+top: 969px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: 900;
+font-size: 23px;
+line-height: 31px;
+/* identical to box height */
+
+/* черный */
+color: #000000;
+
+}
+
+.chud_ {
+  /* Корреспондентам «Культурного обозревателя» посчастливилось побывать в театре «Сфера» на премьере спектакля «Чудаки и зануды» */
+
+position: absolute;
+width: 370px;
+height: 62px;
+left: 935px;
+top: 1011px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+
+color: #000000;
+
+
+}
+
+.abon {
+   /* АБОНЕМЕНТЫ В ТЕАТР */
+
+position: absolute;
+width: 224px;
+height: 20px;
+left: 604px;
+top: 1158px;
+white-space: nowrap;
+font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 17px;
+line-height: 20px;
+/* identical to box height */
+letter-spacing: 2px;
+text-align: center;
+
+color: #000000;
+
+
+ }
+
+.discount {
+  /* Скидка 50% на весь сезон 2020 */
+
+position: absolute;
+width: 368px;
+height: 31px;
+left: 536px;
+top: 1233px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: 900;
+font-size: 23px;
+line-height: 31px;
+/* identical to box height */
+text-align: center;
+
+/* черный */
+color: #000000;
+
+}
+
+
+
+.pod {
+  /* Подводный отель*/ 
+
+position: absolute;
+width: 752px;
+height: 80px;
+left: 344px;
+top: 300px;
+white-space: nowrap;
+font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 84px;
+text-align: center;
+letter-spacing: 2px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+}
+
+.pod_ {
+  /* Как известно, Дубай – город контрастов. Самые революционные и фантастические мечты архитекторов способен воплотить в жизнь этот мегаполис, построенный на нефти и за счет нефти */
+
+position: absolute;
+width: 456px;
+height: 64px;
+left: 492px;
+top: 550px;
+
+font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+/* or 150% */
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.el {
+/* Ellipse 1 */
+
+position: relative;
+width: 707px;
+height: 707px;
+left: 366px;
+top: 795px; 
+-moz-border-radius: 353px;
+-webkit-border-radius: 353px;
+border-radius: 353px;
+
+background: #FFFFFF;
+
+}
+
+.rect {
+  /* Rectangle 14 */
+
+position: absolute;
+width: 1440px;
+height: 556px;
+left: 0px;
+top: 1125px;
+
+background: #F7F7F7;
+mix-blend-mode: normal;
+
+}
+
+h3 {
+  /* ОБЗОРЫ */
+
+position: absolute;
+width: 83px;
+height: 20px;
+left: 678px;
+top: 706px;
+
+font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 17px;
+line-height: 20px;
+/* identical to box height */
+letter-spacing: 2px;
+
+color: #000000;
+
+
+}
+
+.discount_ {
+  /* Покупая абонемент на сезон 2020 года вы сэкономите половину стоимости всех спектаклей */
+
+position: absolute;
+width: 370px;
+height: 63px;
+left: 535px;
+top: 1274px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.place {
+  /* Места у сцены */
+
+position: absolute;
+width: 368px;
+height: 31px;
+left: 536px;
+top: 1361px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: 900;
+font-size: 23px;
+line-height: 31px;
+/* identical to box height */
+text-align: center;
+
+/* черный */
+color: #000000;
+
+}
+
+.place_ {
+  /* Только для обладателей абонементов будет возможность сесть поближе к сцене */
+
+position: absolute;
+width: 370px;
+height: 63px;
+left: 535px;
+top: 1402px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.autog {
+  /* Автограф-сессия актёров */
+
+position: absolute;
+width: 368px;
+height: 31px;
+left: 536px;
+top: 1489px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: 900;
+font-size: 23px;
+line-height: 31px;
+/* identical to box height */
+text-align: center;
+
+/* черный */
+color: #000000;
+
+}
+
+.autog_ {
+  /* После спектаклей у вас будет возможность пообщаться с актёрами и взять у них автограф */
+
+position: absolute;
+width: 370px;
+height: 63px;
+left: 535px;
+top: 1530px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+text-align: center;
+
+color: #000000;
+
+}
+
+.button {
+  /* Rectangle 11 */
+
+position: absolute;
+width: 170px;
+height: 47px;
+left: 635px;
+top: 1618px;
+
+background: #FF7931;
+
+}
+
+.see {
+  /* смотреть */
+
+position: absolute;
+width: 80px;
+height: 15px;
+left: 665px;
+top: 1635px;
+
+font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: 2px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+
+.strela {
+  position: absolute;
+width: 16px;
+height: 16px;
+left: 758px;
+top: 1633px;
+}
+
+footer {
+  /* Rectangle 10 */
+
+position: absolute;
+width: 1440px;
+height: 295px;
+left: 0px;
+top: 1731px;
+
+background: #575757;
+
+}
+
+.zagol-2 {
+  /* Новости культуры */
+
+position: absolute;
+width: 281px;
+height: 38px;
+left: 580px;
+top: 13px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: 900;
+font-size: 28px;
+line-height: 37px;
+/* identical to box height */
+letter-spacing: 1px;
+
+
+/* белый */
+color: #FFFFFF;
+
+}
+
+.down_c,.down_l,.down_r {
+  height: 18px;
+font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+letter-spacing: 2px;
+
+color: #FFFFFF;
+}
+
+
+.down_c {
+  padding: 96px 27px 0px 27px;
+}
+
+.down_l {
+  padding: 96px 27px 0px 77px;
+}
+
+.down_r {
+  padding: 96px 77px 0px 27px;
+}
+
+.line {
+/* Vector 2.2 */
+
+position: absolute;
+width: 1170px;
+height: 0px;
+left: 135px;
+top: 160px;
+
+opacity: 0.4;
+border: 1px solid #FFFFFF;
+
+}
+
+.rect_socnet_1, .rect_socnet_2,.rect_socnet_3 {
+  position: absolute;
+width: 47px;
+height: 47px;
+top: 201px;
+
+background: #FFFFFF;
+}
+.rect_socnet_1 {
+
+/* Rectangle 11 */
+left: 635px;
+
+}
+
+.inst_icon {
+
+position: absolute;
+width: 23px;
+height: 24px;
+left: 647px;
+top: 211px;
+
+
+}
+
+.rect_socnet_2{
+  /* Rectangle 11 */
+
+left: 696px;
+
+
+}
+
+.fb_icon {
+ /* facebook_icon */
+
+ position: absolute;
+ width: 23px;
+ height: 24px;
+ left: 708px;
+ top: 211px;
+ 
+
+}
+
+.rect_socnet_3 {
+
+/* Rectangle 11 */
+
+left: 757px;
+
+
+}
+
+.tw_icon {
+  /* twitter_icon */
+
+  position: absolute;
+  width: 23px;
+  height: 24px;
+  left: 769px;
+  top: 211px;
+
+}
+
+
+
